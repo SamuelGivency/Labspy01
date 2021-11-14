@@ -18,3 +18,6 @@
 ![Gambar 7](Latihan04/01.png)
 <p>-<i>From random import random</i> untuk menambahkan penggunan module random</p>
 <p>-disini saya menggunakan perulangan while dan for</p>
+<p><i>b = random()%0.5</i> digunakan untuk mencari nilai random dibawah 0.5</p>
+
+![Gambar 7](Latihan04/02.png)
