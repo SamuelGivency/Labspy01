@@ -14,3 +14,7 @@
 <p>Buatlah integer baris  dan kolom dengan range 10. print baris+kolom untuk menambah kearah kanan dan gunakan syntax <i>end</i> terakhir gunakan<i> Print ()</i> untuk memberkian enter setiap angka 10.</P>
 
 ![Gambar 6](Latihan03/02.png)
+### Latihan 4 (Menampilkan Bilangan Acak)
+![Gambar 7](Latihan04/01.png)
+<p>-<i>From random import random</i> untuk menambahkan penggunan module random</p>
+<p>-disini saya menggunakan perulangan while dan for</p>
